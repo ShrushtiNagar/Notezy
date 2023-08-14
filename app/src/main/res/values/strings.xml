@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notezy</string>
+    <string name="email_hint">Enter Your Email Address</string>
+    <string name="pass_hint">Enter Your Password</string>
+    <string name="pass_conf_hint">Re-enter Your Password</string>
+    <string name="not_sign_in">Not Registered Yet , Sign Up !!</string>
+    <string name="done_sign_up">Already Registered , Sign In !!</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208528629551",
+    "project_id": "notezy-9ca3d",
+    "storage_bucket": "notezy-9ca3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208528629551:android:53ed2091443e26640b0bda",
+        "android_client_info": {
+          "package_name": "com.example.notezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208528629551-b82ds051uk1i3f9kk7qnd3n56dpv8q5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notezy",
+            "certificate_hash": "68d9a795b81d5f5594bd81326ae2356560ee80c2"
+          }
+        },
+        {
+          "client_id": "208528629551-m2i2qac4args2h59nof5p13majiige4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNX69C3Lq66FiI14EZ3EzbKz4ookqTzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208528629551-m2i2qac4args2h59nof5p13majiige4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
